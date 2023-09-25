@@ -1,16 +1,15 @@
-### Hi there 👋
+### Salve meu bom 👋
+Eai, vai bem? Infelizmente não sei nada sobre você, mas aqui vai um pouco sobre mim:
+- 🎮 Sou um Game Developer em construção
+- 🎨 Bastante experiência com WEB Front e BackEnd
+- 🤓 Atualmente cursando Jogos Digitais na PUC Minas (4/8)
+- 🤔 Afim de fazer uns jogos indies
+- 🏳️‍🌈 Gay praticante
+- 🟨 Avarage Amarelo Enjoyer
+- 🐧 Club Penguin é minha filosofia de vida
+- 🥰 Apaixonado pelas Artes Digitais e produções criativa
+- 🎬 Simplesmente AMO animação
 
-<!--
-**eumsmo/eumsmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Não esqueça de checar [minha página](https://cebojuan.itch.io) de jogos!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Eai, bora fazer um jogo juntos? Se sim, bora bater um papin de amigo: [Email](mailto:cebojuan@gmail.com) / [LinkedIn](https://www.linkedin.com/in/juan-vitor/)
